@@ -1,1 +1,1 @@
-console.log("ini file test2");
+console.log("ini file test2 baru");
