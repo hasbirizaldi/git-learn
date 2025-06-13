@@ -5,9 +5,10 @@ const deduct = (a, b) => a - b;
 console.log(deduct(5, 2));
 
 const multiple_number = (a, b) => a * b;
-console.log(multiple(4, 2));
+console.log(multiple_number(4, 2));
 
 const divide = (a, b) => a / b;
 console.log(divide(5, 2));
 
-console.log(add(5, 9));
+const mathSin = (number) => Math.sin(number);
+console.log(mathSin(10));
